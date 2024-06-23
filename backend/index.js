@@ -1,5 +1,3 @@
-// write basic express.json middleware 
-
 const express= require("express");
 const {createTodo, updateTodo}=require("./types")
 const {todo}= require("./db");
